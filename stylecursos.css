@@ -1,0 +1,37 @@
+.visitas {
+    display: flex;
+    height: 400px;
+    width: 100vw;
+    background-color:purple;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.menu {
+    height: 100px;
+    width: 300px;
+    background-color: orangered;
+    border: 1px solid black;
+    margin-top: 20px
+}
+
+.menucrear {
+    background-color: cadetblue; 
+    background-image: url("crear curso.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 5px 10px 5px #888888;
+    border-radius: 7px;
+}
+
+.menucursos {
+    background-color: cadetblue; 
+    background-image: url("mis cursos.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 5px 10px 5px #888888;
+    border-radius: 7px;
+}

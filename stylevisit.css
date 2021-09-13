@@ -1,0 +1,57 @@
+.visitas {
+    display: flex;
+    height: 400px;
+    width: 100vw;
+    background-color:purple;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.menu {
+    height: 100px;
+    width: 300px;
+    background-color: orangered;
+    border: 1px solid black;
+    margin-top: 20px
+}
+
+.menuagregar {
+    background-color: cadetblue; 
+    background-image: url("agregar.webp");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 5px 10px 5px #888888;
+    border-radius: 7px;
+}
+
+.menuver {
+    background-color: cadetblue;
+    background-image: url("ver.webp");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 5px 10px 5px #888888;
+    border-radius: 7px;
+}
+
+.menuagendar {
+    background-color: cadetblue;
+    background-image: url("agendar.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 5px 10px 5px #888888;
+    border-radius: 7px;
+}
+
+.menuveragenda {
+    background-color: cadetblue;
+    background-image: url("ver agenda.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 5px 10px 5px #888888;
+    border-radius: 7px;
+}

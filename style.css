@@ -1,0 +1,58 @@
+.bienvenida {
+    display: flex;
+    height: 400px;
+    width: 100vw;
+    background-color:purple;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    
+}
+
+.menu {
+    height: 100px;
+    width: 300px;
+    background-color: orangered;
+    border: 1px solid black;
+    margin-top: 20px;
+
+
+}
+.menuVisitantes {
+    background-color: cadetblue; 
+    background-image: url("visita.png.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 5px 10px 5px #888888;
+    border-radius: 7px;
+}   
+.menuVisitas {
+    background-color: cadetblue;
+    background-image: url("visita.webp");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 5px 10px 5px #888888;
+    border-radius: 7px;
+
+}
+.menuUsuarios {
+    background-color: cadetblue;
+    background-image: url("usuarios.webp");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 5px 10px 5px #888888;
+    border-radius: 7px;
+}
+.menuCursos {
+    background-color: cadetblue;
+    background-image: url("cursos.webp");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 5px 10px 5px #888888;
+    border-radius: 7px;
+}
+
